@@ -19,8 +19,8 @@ This repository provides a Flask web service for translating text between multip
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/thisiscatcode/Meta-M2M100.git
+   cd Meta-M2M100
    ```
 
 2. **Install required packages**:
