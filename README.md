@@ -35,7 +35,7 @@ This repository provides a Flask web service for translating text between multip
 
 1. **Run the Flask application**:
    ```bash
-   python app.py
+   python m2m-translation-service.py
    ```
 
 2. **Send a POST request to translate text**:
